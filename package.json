@@ -1,0 +1,14 @@
+{
+    "name": "salamandra-bot",
+    "version": "1.0.0",
+    "description": "owo",
+    "main": "bot.js",
+    "author": "Salamandra",
+    "dependencies": {
+        "discord.js": "^11.5.1",
+        "ffmpeg": "0.0.4",
+        "ffmpeg-binaries": "^4.0.0",
+        "node-opus": "^0.3.2",
+        "winston": "^3.2.1"
+    }
+}
