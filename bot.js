@@ -3,7 +3,6 @@ var fs = require('fs');
 var auth = require('./auth.json');
 var bot = new Discord.Client();
 
-
 bot.login(auth.token);
 
 bot.on('ready', () => {
